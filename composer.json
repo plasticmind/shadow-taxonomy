@@ -1,0 +1,14 @@
+{
+    "name": "plasticmind/shadow-taxonomy",
+    "description": "Provides a Simple API for making Many To Many Relationships in WordPress.",
+    "type": "wordpress-plugin",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "composer/installers": "^1.0"
+    },
+    "license": "GPL-2.0+",
+    "authors": [{
+        "name": "Bobby Bryant"
+    }]
+}
